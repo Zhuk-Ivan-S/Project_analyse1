@@ -1,0 +1,8 @@
+bs4
+csv
+time
+requests
+urllib3.filepost
+pandas
+matplotlib.pyplot
+seaborn
