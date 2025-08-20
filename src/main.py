@@ -1,0 +1,5 @@
+import step1_get_info_test_1_book
+import step2_parce_book
+import step3_scrape_all_info
+import step4_clean_and_prepare
+import step5_analyze
