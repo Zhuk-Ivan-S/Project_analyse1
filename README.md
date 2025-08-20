@@ -17,3 +17,27 @@ This project demonstrates basic skills related to web scraping, data cleaning, a
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib and seaborn**: For data visualization.
 - **csv**: For manipulating files in csv format.
+
+## ⚙️ Installation & Usage
+
+### Prerequisites
+- Python 3.x
+- Git
+
+### Steps
+1. **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Zhuk-Ivan-S/Project_analyse1.git](https://github.com/Zhuk-Ivan-S/Project_analyse1.git)
+    ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd Project_analyse1
+    ```
+3. **Install the required dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the script:**
+    ```bash
+    python main.py
+    ```
